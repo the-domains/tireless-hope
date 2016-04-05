@@ -1,0 +1,28 @@
+name: Tireless Hope
+favicon: null
+layout_spectrum: 0.9224030922632664
+typography_spectrum: 0.9620898270513862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5905878625344485
+  lightness: 0.35306437546387315
+  saturation: 0.795728802215308
+  rhythmicContrast: 0.8445710437372327
+purpose: []
